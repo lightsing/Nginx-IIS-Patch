@@ -4,7 +4,7 @@ Patch your Nginx to look like an IIS Server.
 
 # With IIS Start Page
 
-![IIS Start Page](/Nginx-IISIS-Patch/img/iis.png)
+![IIS Start Page](/Nginx-IIS-Patch/img/iis.png)
 
 # With IIS Error Page
 
