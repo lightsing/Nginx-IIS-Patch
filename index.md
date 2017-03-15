@@ -2,7 +2,13 @@
 
 Patch your Nginx to look like an IIS Server.
 
-![IIS](/Nginx-IIS-Patch/img/iis.png)
+# With IIS Start Page
+
+![IIS Start Page](/Nginx-IISIS-Patch/img/iis.png)
+
+# With IIS Error Page
+
+![IIS Error Page](/Nginx-IIS-Patch/img/iiserr.png)
 
 ### Nmap Scan Result
 
